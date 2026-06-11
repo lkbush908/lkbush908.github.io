@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of Central Floria, (Expected 2027)
-* B.S. in Hospitality Management, University of Central Floria, 2022
+* B.S. in Hospitality Management, University of Central Florida, 2022
 
 Work experience
 ======
