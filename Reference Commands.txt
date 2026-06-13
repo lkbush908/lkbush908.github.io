@@ -1,0 +1,4 @@
+Reference Commands 
+
+Compile and Run Site on localhost:4000
+bundle exec jekyll serve -l -H localhost   
