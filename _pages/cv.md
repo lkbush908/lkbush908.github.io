@@ -7,6 +7,21 @@ redirect_from:
   - /cv
 ---
 
+
+[Download my resume!](/files/LoganBushResume.pdf)
+
+Core Competencies                    
+======
+
+|Languages     |Skills                     |Proficiencies        |
+|--------------|-----------------------|---------------------|
+| C, C#        | Visual Studio, JetBrains | Project Management
+| Java, C++    | Git, Version Control                     | Team Coordination
+| Python       | Solid Works              | Forecasting and Analysis
+| Swift        | Adobe Suite              | Experience Design
+| Python       | Database Management           | Theater Design
+
+
 **{% include base_path %}**
 
 Education
@@ -18,9 +33,11 @@ Education
 
 Work experience
 ======
-### **IT Project Coordinator**
+## **IT Project Coordinator**               
 
-QSI Banking
+*QSI Banking*
+
+*May 2024 - Present*
 * Assist with maintaining financial and cash handling databases reducing
 delivery costs by over 60%
 * Analyze federal coin ordering for multiple nationwide financial
@@ -30,7 +47,9 @@ tier 1 tickets, collaborating with management on more complex issues
 
 ## **Attractions Attendant**
 
-Universal Orlando Resort
+*Universal Orlando Resort*
+
+*May 2021 - Present*
 * Executed crucial safety standards in high demand environment
 * Created and led a venue wide team of over 50 people focused on
 educating and maintaining high operation and show quality standards
@@ -39,22 +58,13 @@ items outlining and detailing various guidelines and regulations
 * Recognized for exceptional guest service by team leadership receiving
 multiple team member of the month nominations
 
-# **Assistant Supervisor - Culinary Events**
+## **Assistant Supervisor - Culinary Events**
     
-  SeaWorld Orlando
+  *SeaWorld Orlando*
+
+  *May 2024 - Present*
 * Managed and trained team member shifts during operations for
 seasonal events
 * Monitored day-to-day scheduling budgets for park-wide teams
 * Coordinated with internal and external vendors to maintain inventory
 control
-
-----
-  
-Skills                    
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
