@@ -1,6 +1,6 @@
 ---
-title: "UCF Project Spotlight Fall 2021 One Act Festival"
-excerpt: "Lead Lighting Designer<br/><img src='/images/500x300.png'>"
+title: "Wilderness Explorer Prehistoric Adventure"
+excerpt: "Co-Project Lead for UCF Attraction Design Course<br/><img src='/images/WEPA Logo.png'>"
 collection: portfolio
 ---
 
