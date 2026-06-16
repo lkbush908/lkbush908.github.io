@@ -1,6 +1,6 @@
 ---
 title: "UCF Project Spotlight Fall 2021 One Act Festival"
-excerpt: "Lead Lighting Designer<br/><img src='/images/images-5.jpeg/'>"
+excerpt: "Lead Lighting Designer<br/><img src='/images/images-5.png/'>"
 collection: portfolio
 ---
 
