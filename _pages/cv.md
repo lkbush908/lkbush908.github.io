@@ -62,9 +62,20 @@ multiple team member of the month nominations
     
   *SeaWorld Orlando*
 
-  *May 2024 - Present*
+  *Apr 2021 - May 2021*
 * Managed and trained team member shifts during operations for
 seasonal events
 * Monitored day-to-day scheduling budgets for park-wide teams
 * Coordinated with internal and external vendors to maintain inventory
 control
+
+
+## **Ambassador - Culinary Events**
+    
+  *SeaWorld Orlando*
+
+  *Dec 2021 - Mar 2021*
+* Provided and served guests during themed
+seasonal events
+* Operated cash handling and food service point of sales devices
+* Developed with managemnet and leadership opportunities for fellow ambassador growth
