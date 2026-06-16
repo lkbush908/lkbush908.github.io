@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Download my resume!](/files/LoganBushResume.pdf)
+[Download my resume!](/files/Logan Bush Resume.pdf)
 
 Core Competencies                    
 ======
