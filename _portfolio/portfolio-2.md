@@ -15,7 +15,7 @@ collection: portfolio
 
 Queue Layout            |  Story Outline
 :-------------------------:|:-------------------------:
-![WEPA Queue](/images/WEPA IMAGES/WEPA QUEUE.png) |  ![WEPA Story](/images/WEPA%20Images/WEPA%20Story.png)
+![WEPA Queue](/images/WEPA%20IMAGES/WEPA%20QUEUE.png) |  ![WEPA Story](/images/WEPA%20Images/WEPA%20Story.png)
 
 [Youtube Link to Animatic](Animatic)
 
